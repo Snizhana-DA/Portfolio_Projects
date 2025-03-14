@@ -37,7 +37,7 @@ This repository contains links to my data analysis projects, showcasing my exper
 🔗 [GitHub Repository](https://github.com/Snizhana-DA/Sales-Analysis-and-Visualization-in-Google-Sheets.git)  
 
 
-## 📌 How to Use These Projects  
+## 📌 About These Projects  
 Each repository contains a detailed `README.md` file with explanations.
 
 
