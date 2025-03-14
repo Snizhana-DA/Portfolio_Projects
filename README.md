@@ -38,7 +38,7 @@ This repository contains links to my data analysis projects, showcasing my exper
 
 
 ## 📌 How to Use These Projects  
-Each repository contains a detailed `README.md` file with explanations, datasets, and visualization links.  
+Each repository contains a detailed `README.md` file with explanations.
 
 
 
